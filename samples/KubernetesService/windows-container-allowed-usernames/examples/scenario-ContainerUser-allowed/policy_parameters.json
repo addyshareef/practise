@@ -1,8 +1,0 @@
-{
-    "allowedUserNames": {
-        "value": ["ContainerUser"]
-    },
-    "excludedImages": {
-        "value": ["exception.azurecr.io/exception*"]
-    }
-}

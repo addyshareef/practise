@@ -1,7 +1,0 @@
-{
-    "allowedFlexVolumeDrivers": {
-        "value": [
-            "example/lvm"
-        ]
-    }
-}

@@ -1,7 +1,0 @@
-{
-    "excludedImages": {
-        "value": [
-            "exception.azurecr.io/exception*"
-        ]
-    }
-}

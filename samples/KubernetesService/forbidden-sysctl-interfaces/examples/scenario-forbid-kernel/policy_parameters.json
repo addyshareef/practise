@@ -1,7 +1,0 @@
-{
-    "forbiddenSysctls": {
-        "value": [
-            "kernel.*"
-        ]
-    }
-}

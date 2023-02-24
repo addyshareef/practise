@@ -1,9 +1,0 @@
-{
-    "ApplicationName": {
-        "type": "string",
-        "metadata": {
-            "displayName": "Application names",
-            "description": "Application names. Example: 'python', 'powershell', or a comma separated list such as 'python,powershell'."
-        }
-    }
-}
